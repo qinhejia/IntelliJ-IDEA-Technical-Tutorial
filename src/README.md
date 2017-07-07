@@ -13,7 +13,7 @@
 - [02. 文档介绍(初学者必看)]()  
 - [03. IDEA下载步骤](download.md) 
 - [04. 安装坏境：Windows](windows-install.md)  
-- [05. IDEA破解技巧]()  
+- [05. ]()  
 
 ## 联系(Contact)
 

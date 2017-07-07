@@ -1,10 +1,10 @@
 # Windows 系统下载 IntelliJ IDEA
 
-- 1. 通过IntelliJ IDEA官网下载：<https://www.jetbrains.com>  
+- 通过IntelliJ IDEA官网下载：<https://www.jetbrains.com>  
 ![IDEA官网首页](images/download-one.jpg)  
 ![IDEA下载界面](images/download-two.jpg)  
 ![IDEA对应版本](images/download-three.jpg)  
-- 2. IDEA破解：
+- IDEA破解：
     - 百度下载一个JetbrainsCrack-2.6.2.jar 破解补丁。放在你的安装idea下面的bin的目录下面。
     - 下载链接：<http://idea.lanyus.com/>  
     - 在安装的idea下面的bin目录下面有2个文件 ： 一个是`idea64.exe.vmoptions`，还有一个是`idea.e
